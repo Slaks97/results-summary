@@ -162,7 +162,6 @@ button:hover {
 
 @media (max-width: 530px) {
     body {
-        background-color: coral;
         overflow: auto;
     }
     .container {
