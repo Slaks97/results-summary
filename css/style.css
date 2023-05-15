@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    /* box-sizing: border-box; */
 }
 
 body {
@@ -8,6 +9,7 @@ body {
     font-size: 18px;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -48,7 +50,7 @@ body {
     font-weight: 700;
 }
 
-.card h2 {
+.card h1 {
     font-size: 26px;
     font-weight: 700;
 }
@@ -151,6 +153,9 @@ button {
 }
 
 a {
+    border: 1px solid red;
+    /* display: flex;
+    justify-content: center; */
     color: #fff;
     text-decoration: none;
 }
