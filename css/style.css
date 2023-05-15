@@ -41,11 +41,11 @@ body {
     padding-bottom: 40px;
 }
 
-.results-card h3 {
+.results-card h2 {
     color: hsl(241, 100%, 89%);
 }
 
-.card h3 {
+.card h2 {
     font-size: 20px;
     font-weight: 700;
 }
