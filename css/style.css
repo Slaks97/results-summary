@@ -150,6 +150,8 @@ button {
     border: none;
     border-radius: 60px;
     padding: 14px 0;
+    display: block;
+    width: 100%;
 }
 
 a {
